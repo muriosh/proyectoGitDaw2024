@@ -1,6 +1,6 @@
 package crud;
 
-
+//nueva especificacion del Modelo de datos
 
 public class Grupo {
 	private String ies;
